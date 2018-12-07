@@ -1,0 +1,96 @@
+historia,Quien dijo YO SOLO SE QUE NO SE NADA?,3,Aristoteles,Ortega,Socrates,Soac
+ficcion,Que es un ewok?,2,Libro digital,Personaje de star wars,Jefe de uan tribu,personaje de star trek
+anatomia,En donde se produce la insulina?,2,Hipofisis,Pancreas,Duadeno,Rinones
+historia,Que estilo arquitectonico es la catedral de Notre Dame?,2,Romantico,Gotico,Barroco,Mexicano
+historia,Con que se fabrica un pergamino?,1,Piel de animales,Madera,Arbusto,Bambu
+espanol,Que es un dactilo?,2,Paso de baile,Pie demtrica, Reptil,Una cancion
+Historia,Esposo de Frida Khalo?,2,Jose Vasconselos,Diego Rivera,Leon Trotsky,Jonh Jons
+deporte,Atleta que empleo una nueva tecnica en el atletismo?, 1, Dick Fosbury, Carl Lewis, Emil Zatopek, Jonh Jons
+geografia,Que pais no tiene el euro como moneda?,2,Portugal,Suiza,Francia,Mexico
+arte,Instrumento bien afinado en ciertas obras de Bach?,1,Clave,Oboe,Todos,Ninguno
+geografia,Cual es el mayor grupo dentro del islam?,1,Suines,Chies,Alauies,Jesuitas
+quimica,En cuantos estados pueden aparecer los elementos?,4,Dos,Tres,Cuatro,Cinco
+quimica,Que grasas hacen saludable al aceite de oliva?,2,Saturadas,Monoinsaturadas,Trans,Notrans
+matematicas,Quien se defiende a la siciliana?,1,Las negras,Cosa Nostra,Seleccion italiana de futbol,El caido
+historia,Que era el Concorde?,3,Tren bala,Transbordador espacial,Avion supersónico,Barco nuclear
+matematicas,Un uno seguido de cien ceros es tambien?,1,Google,Secuencia binaria,Un sistema solar,Un primo
+anatomia,Que enfermedad es considera erradicada?,2,Peste,Viruela,Colera,Tos
+cultura,Que le paso al gato de Schrodinger?,3,Esta muerto,Esta vivo,Ambas,Se perdio
+arte,Quien escribio Gaucho Martin Fierro?,2,Martin Fierro,Jose Hernandez,Anonimo,Jose Fierro
+derecho,Quien es el culpable?,3,Imputado,Acusado,Condenado,Abogado
+matematicas,Cual es el primero de la lista de los numeros primos?,2,El 1,El 2,El 3,El 4
+geografia,Cual es la moneda oficial de Panama?,3,Dolar panameno,Dolar estadounidense,Balboa,Peso
+historia,A que ciudad-estado pertenecia la localidad natal de Leonardo Da Vinci?,2,Venecia,Florencia,Milan,Turquia
+arte,Nacionalidad del escritor Eduardo Galeano?,3,Paraguayo,Uruguayo,Argentino,Chileno
+arte,Que veterano musico sigue llamando a las puertas del cielo?,1,Bob Dylan,Miguel de Rios,Herbert von,Jose Jose
+ficcion,A quien le dice la Reina roja que tiene que correr lo mas rapido?,1,Alicia, Pinocho,Pulgarcito,Pepe el grillo
+biologia,Que afirmacion es incorrecta sobre los virus?,1,Estan vivos,Se multiplican,No tienen metabolismo,No tienen celulas
+quimica,Que contiene mas energia?,1,Espinacas,Nueces,Carne de ternera,Suela de zapato
+geografia,Que pais no representa reclamaciones territoriales sobre la Antartida?,2,Francia,Brasil,Noruega,Reino Unido
+historia,Quien redescubrio Machu Pichu?,1,Conquistadores, Colonos,Prospecciones mineras,Comunistas
+matematicas,La campana de Gauss esta asociada a?,1,Probabilidad,Seguridad,Imposibilidad,Conductividad
+fisica,Que circula por un conductor?,3,Radicales libres,Fotones,Electrones,Protones
+cultura,En que no cree un budista?,3,Reencarnacion,Nirvana,Dios,Karma
+quimica,Que le sucede a la energia?,2,Se consume,Se transforma,Se destruye,Se transporta
+arte,Quien fue Atahualpa Yupanqui?,2,Rey inca,Poeta Argentino,Pizarro,Musico
+geografia,Que va antes?,3,Plan de urbanizacion,Permiso de construccion,Plan de uso de suelo,Liberacion Documental
+cultura,Quien convoco en Concilio del Vaticano?,3,Juan Pablo II,Benedicto XVI,Juan XXIII,Carlos VI
+ficcion,Nombre de la mansion del magnate Kane?,3,Rosebud,Villa Favorita,Xanadu,Kakatun
+literatura,Como muere don Quijote?,2,Cae de su cabello,En la cama,En un enfrentamiento,Durante un viaje
+historia,En donde nacio el emperador Maximiliano I?,1,Viena,Queretaro,Paris,Turquia
+biologia,En un ojo miope la imagen se forma?,1,Adelante,Detras,Humor vítreo,Desfazada
+fisica,Porque algunas frecuencias reciben el nombre de ultrasonidos?,2,Se les oye lejos,Son amplias,Situadas en el umbral auditivo,Se les oye cercas
+literatura,El principito le pide a Saint-Exupery que le dibuje un?,2,Sombrero,Cordero,Elefante,Conejo
+geografia,China es un regimen?,1,Comunista,Maoista,Capitalista,Compusista
+espanol,Cual de las suiguientes no es un modo verbal?,3,Indicativo,Subjuntivo,Imperfecto,Imperativo
+anatomia,Que es el nodo sinoatrial?,1,Marcapasos del Corazon,Punto de corte entres curvas,Union de materia y antimateria,Espacio entre las articulaciones
+geografia,Que significa la K en KFOR?,2,Kilo,Kosovo,Kenia,Kelvin
+arte,Bansky es un?,2,Actor,Grafitero,Banco,Musico
+matematicas,De cuantos vertices se trata en el teorema de Pitagoras?,3,Cuatro,Cinco,Tres,Seis
+biologia,Manifestacion visible de un organismo?,1,Fenotipo,Estereotipo,Genotipo,Menotipo
+literatura,Escritor que no consiguio el premio Nobel debido a sus posturas politicas?,2,Gabriel Garcia Marquez,Jorge Luis Borges,Mario Vargas Llosa, Paulo Coelho
+ficcion,Que edificio trepo King Kong?,2,Casa Blanca,Empire State, Torre Eiffel,La estatua de la libertad
+cultura,Que es el Texas Holdem?,1,Variante del pocker,Campo petrolifico,Western,Un genero musical
+geografia,Que comparten las localidades que se encuentran a la misma longitud?,2,Paralelo,Meridiano,Coordenadas,Costas
+fisica,La materia visible constituye en el universo la?,3,Mayor parte,Mitad,Pequena,Totalidad
+biologia,Que significa la A en el termino SIDA?,2,Ampliada,Adquirida,Anonima,Anomalia
+historia,Empedocles se arrojo al?,2,Vesubio,Etna,Mar,Nirvana
+literatura,Pueblo ficticio descrito en 100 anos de soledad?,2,Vetusta,Macondo,Catay,Artoshka
+historia,De quien hay que hablarles a los viajeros que lleguen a Esparta?,1,Los caidos en la batalla de Termophilas, De los vencedores de la batalla de Maraton, Perdedores de la batalla de Salamina,Ninguna de las anteriores
+anatomia,A partir de que edad empieza a andar un nino de desarrollo normal?,2,6 meses,18 meses,3 anos,9 meses
+cultura,La pelicula red social habla sobre?,2,Bill Gates,Marck Zuckerberg,Steve Jobs, stephen hawking
+espanol,La conjetura de Goldbach se le considera?,2,Demostrada,Suposicion,Refutada,Completa
+deporte,Cuantos sets se disputaron en el partido mas largo de Wimbledeon?,2,Ninguno,183,5,200
+arte,Miembros de los Beatles que siguen vivos?,2,Todos,Starr y McCartney,McCartney y Harrison,McCartney
+biologia,De que material es la informacion genetica del ADN?,2,Peptidos,Nucleotidos,Proteinas,Carbohidratos
+historia,La primera circunavegacion del mundo fue completada por?,1,Magallanes,Colon,Elcano,Americo
+fisica,Combustible utilizado en las centrales nucleares?,1,Uranio, Plutonio,Helio,Calcio
+historia,De que iba el original Tea Party de Boston?,2,Protesta conttra Obama,Resistencia a los ingleses,Emancipacion de los esclavos,Dominio total del mundo
+politica,Quien no tiene asiento permanente en el Consejo de Seguridad de la ONU?,2,Francia,Alemania,China,Portugal
+geografia,Que es el pico del petroleo?,2,Max por el barril de Brent,Tasa de agotamiento,Residuo del refinado,No se
+deportes,Quien ha ganado mas veces el Tour de Francia?,2,Indurain,Armstrong,Merckx,Frank
+informatica,Que se coloca entre lo numeros de una direccion de IP?,1,Puntos,Doble barra,Guiones,Punto y coma
+fisica,Que ocurre con la temperatura cuando alcanza el punto de ebullicion?,2,Asciende,Es constante,Desciende,Ninguna de las anteriores
+cultura,Que hay sobre el estrecho del Golden State?,1,Puente colgante,Puente de arcos,Teleferico,Tren
+historia,Que avion bombardeo Guernica durante la Guerra civil espanola?,2,Lutwaffe,Legion Condor,RAF,SSE
+literatura,Romeo y Julieta esta ambientada en?,3,Londres,Terruel,Verona,Paris
+biologia,En donde hay mas fruta?,1,Zumo,Nectar,Bebidas,Refresco
+politica,Donde se reune el Parlamento Europeo?,3,Bruselas,La haya,Estrasburgo,Noruega
+cultura,Como se llamaba el barco de Charles Darwin?,2,Santa Maria,Beagle,Pinta,Teselia
+historia,Pontencias del Eje en la segunda guerra mundial?,2,EUA GB Francia,Ale Ita Japon,Beligerantes,China Russia
+astronomia,Que elemento asocia un astrologo el planeta Mercurio?,3,Cromo,Azufre,Azogue,Calcio
+arte,Que es la clave de violin?,2,Punto G,,Clave de sol,Centro de gavedad,No se
+geografia,A partir de que tasa de fecundidad la poblacion no cae?,3,uno, uno punto tres,dos punto uno,cinco
+matematicas,Una demostracion no puede considerarse matematicas cuando?,3,Se hace de manera automatica,Se reduce, Se cae,Se levanta
+literatura,Cuanto tiempo transcurre en los cientos de paginas de Ulises?,1,Un dia, Una semana,Un anos,Un mes
+literatura,Como llego Joseph Conrad al corazon de las tinieblas?,1,Navegando por el rio Congo,Por Kurdistan,En ferrocarril,En avion
+cultura,Cuantas son las tradicionales posadas decembrinas?,1,Nueve,Doce,Ocho,Diez
+astronomia,Cual es la palabra homonima de cometa?,2,Planeta,Papalote,Lechoso,Estrella
+espanol,Como se llama a la representacion de una palabra por medio de una o varias de sus letras?,3,Conjuncion,Suposicion,Abreviatura,Adjuncion
+geografia,Como se llama a la autoridad que gobierna cada estado?,2,,Alcalde,Gobernador,Presidente,Monarca
+cultura,A que Dios adoraban los brahamanes de la India?,1,Brahama,Osiris,Ala,Jesus
+espanol,Cuantas vocales hay en triptongo?,1,Tres,Dos,Cuatro,Ninguna
+anatomia,Como se llama el pelo de las ovejas y carneros?,3,Cuero,Bello,Lana,cabello
+fisica,En la radiodifusion que significan las siglas AM?,1,Amplitud modulada,Amplitud modificada,Amplitud molar,Amplitud menor
+fisica,En la radiodifusion que significan las siglas FM?,2,Fosa momentanea,Frecuencia modulada,Frecuencia mayor,Frecuencia menor
+cultura,Como se llama a todos los paises de America que hablan lenguas romance?,2,Romances,Latinos,Celtas,griegos
